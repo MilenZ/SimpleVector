@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1773292431 source:d:\projects\cpp\cpp_binary\simple_vector\simplevector.c
+
+1773598926 source:d:\projects\cpp\cpp_binary\simple_vector\simplevectorcpp.cpp
+	<iostream>
+	<algorithm>
+
